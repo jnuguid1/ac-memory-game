@@ -6,7 +6,12 @@ const Cards = (props) => {
     <div className='cards'>
       {props.cards.map(card => {
         return (
-          <Card name={card.name} />
+          <Card
+            key={card.id}
+            id={card.id}
+            name={card.name}
+            onClick={props.onClick}
+          />
         )
       })}
     </div>

@@ -2,8 +2,8 @@ import React from 'react';
 
 const Card = (props) => {
   return (
-    <div className='card'>
-      <p>{props.name}</p>
+    <div onClick={props.onClick} id={props.id} className='card'>
+      <p id={props.id}>{props.name}</p>
     </div>
   )
 };
