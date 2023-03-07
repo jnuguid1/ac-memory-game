@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae228936.css",
-    "main.js": "/static/js/main.caaffa9a.js",
-    "static/media/egbert.png": "/static/media/egbert.5963838a1f978fd28952.png",
-    "static/media/flo.png": "/static/media/flo.673a867b744acf1da855.png",
-    "static/media/octavian.png": "/static/media/octavian.c881c7ae71788c06323e.png",
-    "static/media/ace.png": "/static/media/ace.aa35dc134fa12cb2b288.png",
-    "static/media/wolfgang.png": "/static/media/wolfgang.5009d6516c3f37ff822d.png",
-    "static/media/rudy.png": "/static/media/rudy.7dd7149a096d10052413.png",
-    "static/media/raymond.png": "/static/media/raymond.c8622d08f8a98ec0d95c.png",
-    "static/media/peewee.png": "/static/media/peewee.c3289101aa7481a18368.png",
-    "static/media/filbert.png": "/static/media/filbert.ee6d7d2ab25eaf75d8ed.png",
-    "static/media/yuka.png": "/static/media/yuka.a1933d2a9472f977d9b9.png",
-    "static/media/tank.png": "/static/media/tank.1fdb21d574212bd70aba.png",
-    "static/media/cleo.png": "/static/media/cleo.709bc5ab014062533adb.png",
-    "index.html": "/index.html",
-    "static/media/leaf.svg": "/static/media/leaf.495348dc30e858227174ac7f26a34949.svg",
-    "main.ae228936.css.map": "/static/css/main.ae228936.css.map",
-    "main.caaffa9a.js.map": "/static/js/main.caaffa9a.js.map"
+    "main.css": "/ac-memory-game/static/css/main.ae228936.css",
+    "main.js": "/ac-memory-game/static/js/main.3a85a3fe.js",
+    "static/media/egbert.png": "/ac-memory-game/static/media/egbert.5963838a1f978fd28952.png",
+    "static/media/flo.png": "/ac-memory-game/static/media/flo.673a867b744acf1da855.png",
+    "static/media/octavian.png": "/ac-memory-game/static/media/octavian.c881c7ae71788c06323e.png",
+    "static/media/ace.png": "/ac-memory-game/static/media/ace.aa35dc134fa12cb2b288.png",
+    "static/media/wolfgang.png": "/ac-memory-game/static/media/wolfgang.5009d6516c3f37ff822d.png",
+    "static/media/rudy.png": "/ac-memory-game/static/media/rudy.7dd7149a096d10052413.png",
+    "static/media/raymond.png": "/ac-memory-game/static/media/raymond.c8622d08f8a98ec0d95c.png",
+    "static/media/peewee.png": "/ac-memory-game/static/media/peewee.c3289101aa7481a18368.png",
+    "static/media/filbert.png": "/ac-memory-game/static/media/filbert.ee6d7d2ab25eaf75d8ed.png",
+    "static/media/yuka.png": "/ac-memory-game/static/media/yuka.a1933d2a9472f977d9b9.png",
+    "static/media/tank.png": "/ac-memory-game/static/media/tank.1fdb21d574212bd70aba.png",
+    "static/media/cleo.png": "/ac-memory-game/static/media/cleo.709bc5ab014062533adb.png",
+    "index.html": "/ac-memory-game/index.html",
+    "static/media/leaf.svg": "/ac-memory-game/static/media/leaf.495348dc30e858227174ac7f26a34949.svg",
+    "main.ae228936.css.map": "/ac-memory-game/static/css/main.ae228936.css.map",
+    "main.3a85a3fe.js.map": "/ac-memory-game/static/js/main.3a85a3fe.js.map"
   },
   "entrypoints": [
     "static/css/main.ae228936.css",
-    "static/js/main.caaffa9a.js"
+    "static/js/main.3a85a3fe.js"
   ]
 }
