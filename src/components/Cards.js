@@ -9,7 +9,7 @@ const Cards = (props) => {
           <Card
             key={card.id}
             id={card.id}
-            name={card.name}
+            card={card}
             onClick={props.onClick}
           />
         )
